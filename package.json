@@ -1,0 +1,12 @@
+{
+  "name": "afetbilgicom-PDF-API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Kaanayden/afetbilgicom-PDF-API.git",
+  "author": "kutluhann <kutluhan.sipka@ug.bilkent.edu.tr>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
